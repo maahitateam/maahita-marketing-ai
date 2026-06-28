@@ -1,0 +1,21 @@
+modules:
+  core:
+    required: true
+    enabled: true
+    version: 1.0.0
+  ai:
+    required: true
+    enabled: true
+    version: 1.0.0
+  automation:
+    required: true
+    enabled: true
+    version: 1.0.0
+  storage:
+    required: true
+    enabled: true
+    version: 1.0.0
+  monitoring:
+    required: true
+    enabled: true
+    version: 1.0.0

@@ -1,0 +1,17 @@
+platform:
+  name: Maahita Marketing AI
+  code: mmai
+  version: 1.0.0-alpha.1
+  description: >
+    AI-powered marketing automation platform
+    for Maahita products.
+project:
+  company: Maahita
+  website: https://maahita.com
+environment:
+  minimum_ubuntu: "26.04"
+  timezone: Asia/Dubai
+docker:
+  minimum_compose: "2.40"
+repository:
+  branch: main
